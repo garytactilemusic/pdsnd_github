@@ -143,7 +143,7 @@ def user_stats(df):
         print('The most common year',common_year)
     else:
 
-        print("not available information .")
+        print("information not available.")
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
