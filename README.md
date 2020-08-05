@@ -2,7 +2,8 @@
 5 August 2020
 
 ### Project Title
-P3
+Nanodegree Programming for Data Science
+Project 3
 
 ### Description
 Post your work on git hub
